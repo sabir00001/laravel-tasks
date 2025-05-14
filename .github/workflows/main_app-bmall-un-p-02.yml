@@ -65,4 +65,4 @@ jobs:
           app-name: 'app-bmall-un-p-02'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21BCBB53B7A24EC3A9147A74B1DDE55D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB2D9E4755F446FFAA1E2508F4357509 }}
